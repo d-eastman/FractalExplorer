@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalExplorer.Lib", "FractalExplorer.Lib\FractalExplorer.Lib.csproj", "{A8AE4C2B-81CA-4E4C-9F03-17070041169B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalExplorer.WinFormsClient", "FractalExplorer.WinFormsClient\FractalExplorer.WinFormsClient.csproj", "{CBB60010-ACC7-4632-BA2E-617D23D55A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalExplorer.Lib.Tests", "FractalExplorer.Lib.Tests\FractalExplorer.Lib.Tests.csproj", "{78BF8E7A-78B6-4958-833F-DD6647BC7020}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8AE4C2B-81CA-4E4C-9F03-17070041169B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AE4C2B-81CA-4E4C-9F03-17070041169B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AE4C2B-81CA-4E4C-9F03-17070041169B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AE4C2B-81CA-4E4C-9F03-17070041169B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBB60010-ACC7-4632-BA2E-617D23D55A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB60010-ACC7-4632-BA2E-617D23D55A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB60010-ACC7-4632-BA2E-617D23D55A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB60010-ACC7-4632-BA2E-617D23D55A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BF8E7A-78B6-4958-833F-DD6647BC7020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BF8E7A-78B6-4958-833F-DD6647BC7020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BF8E7A-78B6-4958-833F-DD6647BC7020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BF8E7A-78B6-4958-833F-DD6647BC7020}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
